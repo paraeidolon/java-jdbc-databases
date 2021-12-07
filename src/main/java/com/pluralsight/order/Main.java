@@ -16,6 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import static com.pluralsight.order.util.ValidationUtils.*;
+// useless comment
 
 /**
  * Main class (point of entry) of the application
